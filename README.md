@@ -1,4 +1,4 @@
-# chom
+# Chom S.
 hello github  
 Monlika Sasanont.  
 My nickname is **chompoo**.  
